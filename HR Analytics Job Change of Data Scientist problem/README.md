@@ -29,5 +29,5 @@ MLP: 0.769<br/>
 Boosting algorithm had the highest accuracy.<br/>
 
 # Licensing, Authors, Acknowledgements
-I have chosen this project on my own.<br/>
+I have chosen this project on my own. The dataset is from Kaggle, and the description in the file: HR Analytics problem.tex is from there.<br/>
 
