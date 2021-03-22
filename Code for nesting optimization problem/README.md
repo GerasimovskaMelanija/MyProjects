@@ -3,7 +3,7 @@
 # Description
 This code for nesting optimization problem works only for albano dataset, and this code is only for getting the first layout. <br/>
 There is a comparation of two algorithms - the first algorithm usese if-else conditions, and the other uses the phidl library.<br/>
-If you want to have the best optimized layout, I suggest you to use Tabu Search, Simulated Annealing or Genetics Algorithms.<br/>
+If you want to have the best optimized layout, I suggest you to use Tabu Search, Simulated Annealing or Genetic Algorithm.<br/>
 
 # Libraries
 1. Numpy<br/>
