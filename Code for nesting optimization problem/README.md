@@ -10,7 +10,8 @@ If you want to have the best optimized layout, I suggest you to use Tabu Search,
 2. Pandas<br/>
 3. Matplotlib<br/>
 4. Shapely<br/>
-5. Phidl<br/>
+5. Phidl <br/>
+6. Rectpack - you will need this library in order to use the function packer() from phidl. <br/>
 
 # File Description
 1. Albano dataset<br/>
