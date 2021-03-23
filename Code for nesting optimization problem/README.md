@@ -18,4 +18,4 @@ If you want to have the best optimized layout, I suggest you to use Tabu Search,
 2. Jupyter Notebook - code<br/>
 
 # Notes
-The language used in this Notebook is Macedonian.
+The language used in this Notebook for commenting is Macedonian.
