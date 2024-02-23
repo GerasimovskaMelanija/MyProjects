@@ -1,5 +1,5 @@
 # MyProjects
-One ML Project and one project for nesting optimization problem.<br/>
+Here we have one ML Project and one project for nesting optimization problem.<br/>
 
 1. First Project<br/>
 Code for nesting optimization problem<br/>
